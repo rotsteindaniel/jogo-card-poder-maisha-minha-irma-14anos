@@ -1,0 +1,86 @@
+body {
+  font-family: "Arial", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden; /* Evitar barra de rolagem */
+  background-color: #f0f0f0;
+}
+
+.game-container {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+#levelSelection {
+  margin-bottom: 20px;
+}
+
+#startButton {
+  background-color: #4caf50;
+  color: white;
+  padding: 15px 25px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#startButton:hover {
+  background-color: #45a049;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding: 20px;
+}
+
+img {
+  max-width: 150px;
+  max-height: 150px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+  color: #555;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 15px 25px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+#timer {
+  margin-top: 10px;
+  font-size: 20px;
+  color: #333;
+}
