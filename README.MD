@@ -1,5 +1,7 @@
 # Jornada de Desenvolvimento: Criando um Jogo Pokémon com Maisha (minha irmã de 14 anos) 🎮
 
+https://github.com/rotsteindaniel/jogo-card-poder-maisha-minha-irma-14anos/assets/97666187/c63a2282-4869-4587-bb53-248dab89c162
+
 Durante um fim de semana emocionante, minha irmã Maisha e eu mergulhamos em uma aventura de desenvolvimento, dando vida a um jogo de cartas Pokémon personalizado. Este projeto, concebido e desenvolvido juntos, foi um testemunho do poder da colaboração intergeracional e da magia que surge quando a curiosidade encontra o código.
 
 ### O Jogo: "Caça Pokémon - Congele a Maisha"
