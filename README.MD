@@ -18,6 +18,12 @@ Para adicionar um toque extra de emoção, implementamos três níveis de dificu
 
 Esta experiência não apenas nos proporcionou um jogo divertido, mas também destacou a importância da paciência, persistência e trabalho em equipe no desenvolvimento de software. Mal podemos esperar para explorar mais projetos emocionantes juntos, continuando a aprimorar nossas habilidades e compartilhar momentos significativos.
 
+### Tecnologias Utilizadas
+
+- HTML
+- CSS
+- Javascript
+
 🎉 #DesenvolvimentoDeJogos #JavaScript #HTML #CSS #Colaboração #Aprendizado
 
 ## Como Executar o Projeto
